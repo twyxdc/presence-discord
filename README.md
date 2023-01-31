@@ -42,6 +42,6 @@ $ npm run start
 ⚡ Desenvolvido por eduz7#8183
 <br/>
 🎈 Github: [github.com/twyxdc](https://github.com/twyxdc)
-
 <br/>
+
 ---
