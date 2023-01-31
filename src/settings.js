@@ -1,5 +1,5 @@
 export let config = {
-    "id": "1063273733093077052",
+    "id": "BOT ID",
     "presence": {
         "details": "Details presence",
         "state": "State presence",
