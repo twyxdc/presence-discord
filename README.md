@@ -1,5 +1,5 @@
 <h1 align="center"> 
- Projeto Presence DiscordJS
+ Presence DiscordJS
 </h1>
 
 ## 🔨 Como Configurar: 
