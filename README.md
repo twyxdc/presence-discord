@@ -12,13 +12,14 @@
 >* Depois de colocar as fotos, copie o nome
 >* Volte para sua settings.js e coloque o nome da foto principal em largeImageKey e a da menor em smallImageKey
 >* Em largeImageText e smallImageText coloque qualquer nome
+>* Em label e url coloque um nome para o botão e a url para redirecionamento
 >* Depois de ter feito todos esses passos leia Como usar
 
 <br/>
 
 ## 💻 Como usar
 
->* Para rodar essa aplicação você precisará [Node.js](https://nodejs.org/en/download/)
+>* Para rodar essa aplicação você precisará ter instalado [Node.js](https://nodejs.org/en/download/)
 >* Na sua linha de comando:
 
 ```bash
@@ -43,5 +44,4 @@ $ npm run start
 🎈 Github: [github.com/twyxdc](https://github.com/twyxdc)
 
 <br/>
-
 ---
